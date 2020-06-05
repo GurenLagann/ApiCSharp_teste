@@ -1,0 +1,6 @@
+/home/wallace/Dev/Lifetime/CSharp/testerf/obj/Debug/netcoreapp3.1/testerf.csprojAssemblyReference.cache
+/home/wallace/Dev/Lifetime/CSharp/testerf/obj/Debug/netcoreapp3.1/staticwebassets/testerf.StaticWebAssets.Manifest.cache
+/home/wallace/Dev/Lifetime/CSharp/testerf/obj/Debug/netcoreapp3.1/staticwebassets/testerf.StaticWebAssets.xml
+/home/wallace/Dev/Lifetime/CSharp/testerf/obj/Debug/netcoreapp3.1/testerf.MvcApplicationPartsAssemblyInfo.cache
+/home/wallace/Dev/Lifetime/CSharp/testerf/obj/Debug/netcoreapp3.1/testerf.AssemblyInfoInputs.cache
+/home/wallace/Dev/Lifetime/CSharp/testerf/obj/Debug/netcoreapp3.1/testerf.AssemblyInfo.cs
